@@ -1,7 +1,7 @@
 <?php
-$user = "example_user";
-$password = "password";
-$database = "example_database";
+$user = "ritik";
+$password = "lucifer@2903";
+$database = "DB";
 $table = "todo_list";
 
 try {
